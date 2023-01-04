@@ -11,7 +11,7 @@ const BLOG = {
   APPEARANCE: 'light', // ['light', 'dark', 'auto'], // light 日间模式 ， dark夜间模式， auto根据时间和主题自动夜间模式
 
   AUTHOR: 'Insightworld', // 作者
-  BIO: '一個做筆記的驗光師', // 作者简介
+  BIO: '一個做筆記的驗光師，寫作之難，在於將網狀的思想，通過樹狀的句法，用線性的文字展開。', // 作者简介
   LINK: '', // 网站地址
   KEYWORDS: '驗光師, 洞見人間', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
